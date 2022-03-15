@@ -48,6 +48,5 @@ function myFunction3(x) {
 let myFunction4 = function (str){
     let num = Number(str);
     console.log(num);
-    return null;
 }
 console.log(myFunction4("345"));
